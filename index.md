@@ -120,5 +120,5 @@ Installation: needs compilation
 The [Silx toolkit](https://github.com/silx-kit/silx) includes a GPU-based
 SIFT registration algorithm.
 
-Installation: needs compilation?
+Installation: pip or conda
 
